@@ -1,0 +1,13 @@
+Test 2
+
+Goal:
+- Create a function that will random words in this sentence by taking words inside of the brackets 
+- The words that should be randomed are delimited by | So for example if you have (one|two|three) the function should take all these words
+and return only one word out of three randomly.
+- Be aware that some of these word groups are nested so make sure that you properly handle nested groups.
+
+Help me (random|randomize) this sentece by (shuffling|(trying to shuffle|making it (random|more random))) on each (iteration|iterations|iterationz)
+
+Result (One of possible outcomes):
+
+Help me random this sentece by making it more random on each iteration
